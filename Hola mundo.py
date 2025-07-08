@@ -6,3 +6,4 @@ for i in range (0,10):
 print("Holaaaaa")
 print("* " * 10)
 print("Hijo de tu puta madre")
+print("Ya no me sale semen")

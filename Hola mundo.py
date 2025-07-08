@@ -1,11 +1,1 @@
 print("Hola mundo")
-print("Hola mundo")
-for i in range (0,10):
-    print("Adios mundo")
-    print("Adios seven" )
-print("Holaaaaa")
-print("* " * 10)
-print("Hijo de tu puta madre")
-print("Ya no me sale semen")
-print("ola")
-print("Te pico la cola")
